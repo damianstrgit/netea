@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "files": ["*.php"],
+            "options": {
+                "tabWidth": 4,
+                "singleQuote": true
+            }
+        },
+        {
+            "files": ["*.yaml"],
+            "options": {
+                "tabWidth": 4,
+                "singleQuote": true
+            }
+        }
+    ]
+}
